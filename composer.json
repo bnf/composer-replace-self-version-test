@@ -1,0 +1,13 @@
+{
+    "name": "bnf/replaces-test",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./dummy-replaces-test-package"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^100.0",
+        "bnf/dummy-replaces-test-package": "^100.0"
+    }
+}

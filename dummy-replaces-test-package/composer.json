@@ -1,0 +1,7 @@
+{
+    "name": "bnf/dummy-replaces-test-package",
+    "version": "100.0.0",
+    "replace": {
+      "typo3/cms-core": "self.version"
+    }
+}
